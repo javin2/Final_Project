@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  projected_completion: 2021-03-18
+  title: MyString
+  description: MyString
+  percent_complete: 
+  balance: 
+  client: one
+
+two:
+  projected_completion: 2021-03-18
+  title: MyString
+  description: MyString
+  percent_complete: 
+  balance: 
+  client: two
