@@ -10,7 +10,7 @@ import "channels"
 import 'bootstrap/dist/css/bootstrap'
 require('bootstrap')
 
-require('./hello_react')
+require('./index')
 
 Rails.start()
 Turbolinks.start()
